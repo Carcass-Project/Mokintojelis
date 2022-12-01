@@ -1,0 +1,4 @@
+C:\Users\bitte\source\repos\TechnoDarbas\TechnoDarbelis\x64\Debug\TechnoDarbelis.vcxproj.AssemblyReference.cache
+C:\Users\bitte\source\repos\TechnoDarbas\TechnoDarbelis\x64\Debug\TechnoDarbelis.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\bitte\source\repos\TechnoDarbas\TechnoDarbelis\x64\Debug\TechnoDarbelis.App.resources
+C:\Users\bitte\source\repos\TechnoDarbas\TechnoDarbelis\x64\Debug\TechnoDarbelis.vcxproj.GenerateResource.cache
